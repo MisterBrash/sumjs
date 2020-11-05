@@ -8,5 +8,6 @@ function main() {
     console.log("Testing 12345");
     console.log("Not going to lie. I have no idea what I'm doing.");
     console.log("What about script files?");
+    console.log("I'm starting to really like this environment. Time to find out how free it truly is.");
 
 }

@@ -7,6 +7,6 @@ function main() {
   // Write your code inside this function.
     console.log("Testing 12345");
     console.log("Not going to lie. I have no idea what I'm doing.");
-
+    console.log("What about script files?");
 
 }
